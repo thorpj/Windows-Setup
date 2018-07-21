@@ -1,7 +1,8 @@
 choco feature enable -n allowGlobalConfirmation
 Import-Csv "packages.csv" | Foreach-Object {
-    foreach ($package in $_.PSObject.Properties)
+    foreach ($line in $_.PSObject.Properties)
     {
+        $package = $line.Value
         choco install $package
     }
 }
