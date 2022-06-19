@@ -1,5 +1,3 @@
-# Windows-Scripts
+# Windows-Setup
 Scripts for Windows
 
-## Languages used
-* Powershell
