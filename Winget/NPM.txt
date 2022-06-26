@@ -1,0 +1,7 @@
+C:\Users\thorp\git\Windows-Setup [master ≡]> npm list -g --depth=0
+C:\Users\thorp\AppData\Roaming\npm
++-- autorest@3.2.3
++-- flow-bin@0.135.0
++-- prettier-plugin-razor@1.0.11
++-- prettier@2.3.2
+`-- sass@1.34.1

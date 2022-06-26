@@ -7,3 +7,4 @@ Jagex Launcher
 GlobalProtect                                                                                                                                                   
 Jiwa 7                                                                                                                                                          
 Navigation Updater                                                                                                                                              
+Posh Git
