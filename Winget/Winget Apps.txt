@@ -79,25 +79,10 @@
 					"PackageIdentifier" : "CodecGuide.K-LiteCodecPack.Basic"
 				},
 				{
-					"PackageIdentifier" : "Logitech.LGS"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Edge"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal"
-				},
-				{
 					"PackageIdentifier" : "Insecure.Nmap"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Office"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
 					"PackageIdentifier" : "Postman.Postman"
@@ -116,9 +101,6 @@
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam"
-				},
-				{
-					"PackageIdentifier" : "SteelSeries.GG"
 				},
 				{
 					"PackageIdentifier" : "TeamViewer.TeamViewer"
