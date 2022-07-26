@@ -49,9 +49,6 @@
 					"PackageIdentifier" : "Figma.Figma"
 				},
 				{
-					"PackageIdentifier" : "flux.flux"
-				},
-				{
 					"PackageIdentifier" : "GIMP.GIMP"
 				},
 				{
@@ -94,19 +91,10 @@
 					"PackageIdentifier" : "RuneLite.RuneLite"
 				},
 				{
-					"PackageIdentifier": "Jagex.OldSchoolRunescape"
-				},
-				{
-					"PackageIdentifier" : "Spotify.Spotify"
-				},
-				{
 					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
 					"PackageIdentifier" : "TeamViewer.TeamViewer"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
 					"PackageIdentifier" : "TechPowerUp.GPU-Z"
@@ -116,9 +104,6 @@
 				},
 				{
 					"PackageIdentifier" : "Ubisoft.Connect"
-				},
-				{
-					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
 					"PackageIdentifier" : "Wargaming.GameCenter"
@@ -133,16 +118,10 @@
 					"PackageIdentifier" : "ClickUp.ClickUp"
 				},
 				{
-					"PackageIdentifier" : "FoundryLabs.Devbook"
-				},
-				{
 					"PackageIdentifier" : "Balena.Etcher"
 				},
 				{
 					"PackageIdentifier" : "XMind.XMind"
-				},
-				{
-					"PackageIdentifier" : "Heroku.HerokuCLI"
 				},
 				{
 					"PackageIdentifier" : "WinSCP.WinSCP"
@@ -178,19 +157,10 @@
 					"PackageIdentifier" : "Microsoft.VC++2012Redist-x86"
 				},
 				{
-					"PackageIdentifier" : "Malwarebytes.Malwarebytes"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.SQLServerManagementStudio"
 				},
 				{
 					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
-				},
-				{
-					"PackageIdentifier" : "Chocolatey.ChocolateyGUI"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerAppsCLI"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.SDK.5"
@@ -203,9 +173,6 @@
 				},
 				{
 					"PackageIdentifier" : "OpenMedia.4KVideoDownloader"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2005Redist-x86"
@@ -229,9 +196,6 @@
 					"PackageIdentifier" : "Maximus5.ConEmu"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerBI"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VC++2008Redist-x86"
 				},
 				{
@@ -245,15 +209,6 @@
 				},
 				{
 					"PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
-				},
-				{
-					"PackageIdentifier" : "Nvidia.GeForceExperience"
-				},
-				{
-					"PackageIdentifier" : "Nvidia.PhysX"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
 				},
 				{
 					"PackageIdentifier" : "Oracle.VirtualBox"
@@ -284,9 +239,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
-				},
-				{
-					"PackageIdentifier" : "bricelam.imageresizer"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.SDK.6"
@@ -323,9 +275,6 @@
 				},
 				{
 					"PackageIdentifier": "9PGCV4V3BK4W"
-				},
-				{
-					"PackageIdentifier": "CaffeineInc.Caffeine"
 				}
 			],
 			"SourceDetails" : 
